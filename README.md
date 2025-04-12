@@ -2,8 +2,12 @@
 1. Create greenwood-library-website
 ![](./img/greenwood-library-website%20repository_1.png)
 
-2. Creation of Home, About_us, Events and Contact_us.html
+2. Creation of Home.html, About_us.html, Events.html and Contact_us.html
 ![](./img/Creation%20of%20Home_AboutUs_Events_and_ContactUs.html_2.png)
+![](./home.html)
+![](./About_us.html)
+![](./events.html)
+![](./contact_us.html)
 
 3. Adding random content for Home, About_us, Events and Contact_us.html
 ![](./img/Home.html_content_3a.png)
