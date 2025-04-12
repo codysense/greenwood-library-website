@@ -1,4 +1,5 @@
 # greenwood-library-website
+## TASK ONE
 1. Create greenwood-library-website
 ![](./img/greenwood-library-website%20repository_1.png)
 
@@ -21,30 +22,34 @@
 4. Staging, commit and pushing initial website html files
 ![](./img/Staging_Commit_and_Pushing_html%20files_to_main_4.png)
 
-5. Create add-book-reviews branch
+## TASK TWO
+
+5.Created a new branch for Morgan with name add-book-review using the command git checkout -b add-book-review
 ![](./img/create-morgan-branch-add_book_reviews_5.png)
 
-6. Switch to add-book-reviews branch
+6. Switch to Morgan branch named add-book-reviews
 ![](./img/switched-to-add_book_reviews-branch_6.png)
 
-7. Added book-reviews.html and its content
+7. Added book-reviews.html and its content for Morgan branch
 ![](./img/added-book_reviews.html_7.png)
 
 ![](./img/Book_reviews.html-content_8.png)
 
-8. Staging,committing and push add-book-reviews to main
+8. Staging,committing and push Morgan branch named add-book-reviews to main
 ![](./img/Staging_Commit_and_Pushing_add-book-reviews_branch_to_main_9.png)
 
-10. Open pull request for add-book-reviews branch
+10. Open pull request for Morgan branch named add-book-reviews branch
 ![](./img/open-pull-request-for-book-reviews-branch_10.png)
 
-11. Create pull request for add-book-reviews branch
+11. Create pull request for Morgan branch named add-book-reviews branch
 ![](./img/create-pull-request-for-add_book_reviews-branch_11.png)
 
-12. Merge add-book-reviews branch to main
+12. Merge Morgan branch named add-book-reviews to main
 ![](./img/merged_add-book-reviews-to-main.png)
 
-13. Create and switch to update-events branch and pull update from main
+## TASK THREE
+
+13. Create and switch to  Jamie  named branch update-events branch and pull update from main
 ![](./img/create_and%20switch-to_update-events_branch_and_pull_update_from_main_11.png)
 
 14. Stage, commit and push update-events branch to main
